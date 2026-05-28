@@ -1,7 +1,7 @@
 # California House Price Prediction
 
 I built this project to predict house prices across California 
-districts using census data. The goal was simple — given 
+districts using census data. The goal was simple - given 
 information about a neighborhood like income, location, and 
 number of rooms, can we predict what houses there are worth?
 
