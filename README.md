@@ -15,7 +15,7 @@ number of rooms, can we predict what houses there are worth?
 ## Results
 Starting with Linear Regression gave an R² of 0.625.
 After testing all models and tuning the best one 
-(HistGradientBoosting), I got R² up to 0.826 — 
+(HistGradientBoosting), I got R² up to 0.826 -
 a 31% improvement over the baseline.
 
 ## What I Found Interesting
